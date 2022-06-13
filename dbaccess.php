@@ -40,7 +40,6 @@ function escape1($str)
 Last Access Time<br><br>
 <?php foreach ($rec as $a):?>
         <?=escape1($a)?><br>
-	ooooooooooooooooooooooooo
 <?php endforeach; ?>
 seeeeeeeeeeeeeeeeee!!!
 </body>
